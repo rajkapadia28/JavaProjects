@@ -1,0 +1,742 @@
+Unsorted Array List of Humans: [
+allcreatures.Male
+Name is: DanMarino
+Age is: 45
+Height is:  75.0
+Weight is: 220.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: SteveSmith
+Age is: 35
+Height is:  57.0
+Weight is: 110.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: MiaHamm
+Age is: 25
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: JackSmith
+Age is: 34
+Height is:  60.0
+Weight is: 128.0
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: Alexandra
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Maria
+Age is: 24
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: DanMarinoJr
+Age is: 4
+Height is:  24.0
+Weight is: 24.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: MarkWho
+Age is: 38
+Height is:  72.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: DumbOne
+Age is: 27
+Height is:  66.0
+Weight is: 410.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: Great!
+Age is: 77
+Height is:  110.0
+Weight is: 333.0
+Intelligence Level is: 5
+, 
+allcreatures.Female
+Name is: Alicia
+Age is: 46
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Haydee
+Age is: 44
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: Irene
+Age is: 22
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Martha
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Male
+Name is: DavidWhite
+Age is: 39
+Height is:  71.0
+Weight is: 155.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: BillBlack
+Age is: 33
+Height is:  76.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: WeiChen
+Age is: 28
+Height is:  55.0
+Weight is: 112.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: NormanSmith
+Age is: 33
+Height is:  55.0
+Weight is: 166.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: AnaSmith
+Age is: 52
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Male
+Name is: PaulGirard
+Age is: 38
+Height is:  58.0
+Weight is: 211.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: PeterPan
+Age is: 3
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: HumptyDumpty
+Age is: 77
+Height is:  36.0
+Weight is: 500.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: PaulaGrant
+Age is: 44
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: BonnieBert
+Age is: 27
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: BerthaTravis
+Age is: 11
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: YolyGarcia
+Age is: 23
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JoseSanchez
+Age is: 2
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JulioSmith
+Age is: 38
+Height is:  55.0
+Weight is: 165.0
+Intelligence Level is: 3
+]
+Sorted Array List of Humans: [
+allcreatures.Female
+Name is: Alexandra
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Alicia
+Age is: 46
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: AnaSmith
+Age is: 52
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: BerthaTravis
+Age is: 11
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Male
+Name is: BillBlack
+Age is: 33
+Height is:  76.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: BonnieBert
+Age is: 27
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Male
+Name is: DanMarino
+Age is: 45
+Height is:  75.0
+Weight is: 220.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: DanMarinoJr
+Age is: 4
+Height is:  24.0
+Weight is: 24.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: DavidWhite
+Age is: 39
+Height is:  71.0
+Weight is: 155.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: DumbOne
+Age is: 27
+Height is:  66.0
+Weight is: 410.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: Great!
+Age is: 77
+Height is:  110.0
+Weight is: 333.0
+Intelligence Level is: 5
+, 
+allcreatures.Female
+Name is: Haydee
+Age is: 44
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Male
+Name is: HumptyDumpty
+Age is: 77
+Height is:  36.0
+Weight is: 500.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Irene
+Age is: 22
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JackSmith
+Age is: 34
+Height is:  60.0
+Weight is: 128.0
+Intelligence Level is: 2
+, 
+allcreatures.Male
+Name is: JoseSanchez
+Age is: 2
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JulioSmith
+Age is: 38
+Height is:  55.0
+Weight is: 165.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Maria
+Age is: 24
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: MarkWho
+Age is: 38
+Height is:  72.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: Martha
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: MiaHamm
+Age is: 25
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: NormanSmith
+Age is: 33
+Height is:  55.0
+Weight is: 166.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: PaulGirard
+Age is: 38
+Height is:  58.0
+Weight is: 211.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: PaulaGrant
+Age is: 44
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: PeterPan
+Age is: 3
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: SteveSmith
+Age is: 35
+Height is:  57.0
+Weight is: 110.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: WeiChen
+Age is: 28
+Height is:  55.0
+Weight is: 112.0
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: YolyGarcia
+Age is: 23
+Degree is: BS
+Intelligence Level is: 3
+]
+Unsorted Array of Males: [
+allcreatures.Male
+Name is: DanMarino
+Age is: 45
+Height is:  75.0
+Weight is: 220.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: SteveSmith
+Age is: 35
+Height is:  57.0
+Weight is: 110.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JackSmith
+Age is: 34
+Height is:  60.0
+Weight is: 128.0
+Intelligence Level is: 2
+, 
+allcreatures.Male
+Name is: DanMarinoJr
+Age is: 4
+Height is:  24.0
+Weight is: 24.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: MarkWho
+Age is: 38
+Height is:  72.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: DumbOne
+Age is: 27
+Height is:  66.0
+Weight is: 410.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: Great!
+Age is: 77
+Height is:  110.0
+Weight is: 333.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: DavidWhite
+Age is: 39
+Height is:  71.0
+Weight is: 155.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: BillBlack
+Age is: 33
+Height is:  76.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: WeiChen
+Age is: 28
+Height is:  55.0
+Weight is: 112.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: NormanSmith
+Age is: 33
+Height is:  55.0
+Weight is: 166.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: PaulGirard
+Age is: 38
+Height is:  58.0
+Weight is: 211.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: PeterPan
+Age is: 3
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: HumptyDumpty
+Age is: 77
+Height is:  36.0
+Weight is: 500.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JoseSanchez
+Age is: 2
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JulioSmith
+Age is: 38
+Height is:  55.0
+Weight is: 165.0
+Intelligence Level is: 3
+]
+Array of Males sorted according to Height: [
+allcreatures.Male
+Name is: PeterPan
+Age is: 3
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JoseSanchez
+Age is: 2
+Height is:  18.0
+Weight is: 22.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: DanMarinoJr
+Age is: 4
+Height is:  24.0
+Weight is: 24.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: HumptyDumpty
+Age is: 77
+Height is:  36.0
+Weight is: 500.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: WeiChen
+Age is: 28
+Height is:  55.0
+Weight is: 112.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: NormanSmith
+Age is: 33
+Height is:  55.0
+Weight is: 166.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JulioSmith
+Age is: 38
+Height is:  55.0
+Weight is: 165.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: SteveSmith
+Age is: 35
+Height is:  57.0
+Weight is: 110.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: PaulGirard
+Age is: 38
+Height is:  58.0
+Weight is: 211.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: JackSmith
+Age is: 34
+Height is:  60.0
+Weight is: 128.0
+Intelligence Level is: 2
+, 
+allcreatures.Male
+Name is: DumbOne
+Age is: 27
+Height is:  66.0
+Weight is: 410.0
+Intelligence Level is: 3
+, 
+allcreatures.Male
+Name is: DavidWhite
+Age is: 39
+Height is:  71.0
+Weight is: 155.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: MarkWho
+Age is: 38
+Height is:  72.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: DanMarino
+Age is: 45
+Height is:  75.0
+Weight is: 220.0
+Intelligence Level is: 5
+, 
+allcreatures.Male
+Name is: BillBlack
+Age is: 33
+Height is:  76.0
+Weight is: 144.0
+Intelligence Level is: 4
+, 
+allcreatures.Male
+Name is: Great!
+Age is: 77
+Height is:  110.0
+Weight is: 333.0
+Intelligence Level is: 5
+]
+Unsorted Array of Females: [
+allcreatures.Female
+Name is: MiaHamm
+Age is: 25
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: Alexandra
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Maria
+Age is: 24
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Alicia
+Age is: 46
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Haydee
+Age is: 44
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: Irene
+Age is: 22
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Martha
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: AnaSmith
+Age is: 52
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: PaulaGrant
+Age is: 44
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: BonnieBert
+Age is: 27
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: BerthaTravis
+Age is: 11
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: YolyGarcia
+Age is: 23
+Degree is: BS
+Intelligence Level is: 3
+]
+Array of Females sorted according to the age: [
+allcreatures.Female
+Name is: BerthaTravis
+Age is: 11
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Irene
+Age is: 22
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: YolyGarcia
+Age is: 23
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: Maria
+Age is: 24
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: MiaHamm
+Age is: 25
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: BonnieBert
+Age is: 27
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: PaulaGrant
+Age is: 44
+Degree is: MS
+Intelligence Level is: 4
+, 
+allcreatures.Female
+Name is: Haydee
+Age is: 44
+Degree is: AA
+Intelligence Level is: 2
+, 
+allcreatures.Female
+Name is: Alicia
+Age is: 46
+Degree is: BS
+Intelligence Level is: 3
+, 
+allcreatures.Female
+Name is: AnaSmith
+Age is: 52
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Martha
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+, 
+allcreatures.Female
+Name is: Alexandra
+Age is: 55
+Degree is: Ph.D.
+Intelligence Level is: 1
+]
