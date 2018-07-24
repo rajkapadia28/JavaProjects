@@ -1,0 +1,24 @@
+Set 0 is empty: true
+The elements in set 0 are the following: { 24,423,76,12,8,64,}
+Set 0 is empty: false
+The Set contains 76 in set 0: true
+The Set contains 24 in set 0: true
+The Set contains 12 in set 0: true
+The Set contains 76 in set 0: false
+The elements in set 0 are the following: { 24,423,12,8,64,111,}
+The elements in set 1 are the following: { 76,55,12,43,876,98,64,34,}
+The Set contains 111 in set 1: false
+The Set contains 76 in set 1: true
+The elements in set 2 are the following: { 24,423,12,8,64,111,76,55,43,876,98,34,}
+The elements in set 3 are the following: { 12,64,}
+The elements in set 4 are the following: { 24,423,8,111,}
+Sets 5 and 0 are equal: true
+Sets 1 and 2 are equal: false
+Set 6 is empty: true
+The elements in set 0 are the following: { 24,423,12,8,64,111,}
+The elements in set 1 are the following: { 76,55,12,43,876,98,64,34,}
+The elements in set 2 are the following: { 24,423,12,8,64,111,76,55,43,876,98,34,}
+The elements in set 3 are the following: { 12,64,}
+The elements in set 4 are the following: { 24,423,8,111,}
+The elements in set 5 are the following: { 12,64,24,423,8,111,}
+The elements in set 6 are the following: { }
